@@ -21,7 +21,7 @@ _Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir apr
 |---|---|
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ## 📈Mis estadisticas
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonavoe&show_icons=true&theme=city_lights)](https://github.com/Jonavoe/github-readme-stats)|![Jona GitHub stats](https://github-readme-stats.vercel.app/api?username=areyouivan&show_icons=true&theme=city_lights)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonavoe&show_icons=true&theme=city_lights)](https://github.com/Jonavoe/github-readme-stats)|![Jona GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonavoe&show_icons=true&theme=city_lights)|
 |---|---|
 
 
