@@ -1,7 +1,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=areyouivan&color=blueviolet) -->
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAreYouIvan&count_bg=%234A4B49&title_bg=%235E21A4&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://github.com/)
 <!-- BANNER: "Hola soy Joathan" -->
-# ![banner](https://raw.githubusercontent.com/Jonavoe/Jonavoe/main/banner.png)
+# ![banner](https://raw.githubusercontent.com/Jonavoe/Jonavoe/main/banner.png)<img src=""/>
 <!-- DESCRIPTION -->
 Soy un desarrollador Front End Junior apasionado por la tecnología y el diseño. Tengo experiencia en JavaScript, React, Node.js y SQL. Me enfoco en encontrar soluciones innovadoras y tengo habilidades blandas como trabajo en equipo, liderazgo y proactividad. Mi objetivo es seguir creciendo como profesional en el desarrollo web.
 
