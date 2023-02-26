@@ -9,11 +9,8 @@ Soy un desarrollador Front End Junior apasionado por la tecnología y el diseño
 
 _Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir aprendiendo sobre nuevas tecnologías. Aquí están algunos de mis mejores proyectos._
 
-- [Ghibli Tracker: Rate and discover your favorites Ghibli's movies](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
-- [Ghibli Backoffice: Manage and make CRUD for all content from Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Backoffice)
-- [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
-- [E-commerce platform building in Next.js](https://github.com/AreYouIvan/react-store)
-- [Todo-list an application to increase your productivity building in React](https://github.com/AreYouIvan/react-introduction)
+- [Shih tzu busqueda, Pagina para buscar imagenes](https://github.com/Jonavoe/buscashit)
+- [Ecommerce](https://github.com/Jonavoe/ecommerce)
 
 ## ⚙ My stack technologies
 |Lenguajes de programación|Frontend|Backend|
@@ -29,6 +26,5 @@ _Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir apr
 
 
 <!---
-AreYouIvan/AreYouIvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Jonavoe/Jonavoe Es un repositorio ✨ especial ✨ porque su archivo README.md (este archivo) aparece en su perfil de GitHub. Puede hacer clic en el enlace "Preview" para echar un vistazo a sus cambios.
 --->
