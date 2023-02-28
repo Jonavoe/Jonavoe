@@ -3,7 +3,7 @@
 <!-- BANNER: "Hola soy Joathan" -->
 # ![banner](https://raw.githubusercontent.com/Jonavoe/Jonavoe/main/banner.png)
 <!-- DESCRIPTION -->
-Soy un desarrollador Front End Junior apasionado por la tecnología y el diseño. Tengo experiencia en JavaScript, React, Node.js y SQL. Me enfoco en encontrar soluciones innovadoras y tengo habilidades blandas como trabajo en equipo, liderazgo y proactividad. Mi objetivo es seguir creciendo como profesional en el desarrollo web.
+Soy un desarrollador Front End Junior apasionado por la tecnología y el diseño. Tengo experiencia en JavaScript, React, Node.js y SQL. Me enfoco en encontrar soluciones innovadoras Además, cuento con habilidades interpersonales como el trabajo en equipo, liderazgo y proactividad. Mi objetivo es seguir creciendo como profesional en el desarrollo web y ofrecer soluciones de alta calidad. ¡Gracias por visitar mi perfil!
 
 ## 🚀Mis Proyectos 
 
