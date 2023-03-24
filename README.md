@@ -9,7 +9,7 @@ Soy un desarrollador Front End Junior apasionado por la tecnología y el diseño
 
 _Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir aprendiendo sobre nuevas tecnologías. Aquí están algunos de mis mejores proyectos._
 
-- [Rick and Morty Fan Page](https://github.com/Jonavoe/Proyecto-rick-and-morty) https://rickandmortyjonavoe.netlify.app/
+-  [GitHub - Rick and Morty Fan Page](https://github.com/Jonavoe/Proyecto-rick-and-morty) [Pagina:] https://rick-and-morty-jonavoe.vercel.app/
 - [Shih tzu busqueda, Pagina para buscar imagenes](https://github.com/Jonavoe/buscashit)
 - [Ecommerce](https://github.com/Jonavoe/ecommerce)
 
