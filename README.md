@@ -1,5 +1,15 @@
 # 💫 About Me:
-Soy un desarrollador Front End Junior apasionado por la tecnología y el diseño. Tengo experiencia en JavaScript, React, Node.js y SQL. Me enfoco en encontrar soluciones innovadoras Además, cuento con habilidades interpersonales como el trabajo en equipo, liderazgo y proactividad. Mi objetivo es seguir creciendo como profesional en el desarrollo web y ofrecer soluciones de alta calidad. ¡Gracias por visitar mi perfil!
+¡Hola! 👋
+
+Soy un 🧑‍💻 desarrollador Front End Junior apasionado por la tecnología y el diseño. Tengo experiencia en 🚀 JavaScript, ⚛️ React, React Router, 🐘 Postgres, 🎵 Insomnia, HTML5, 🎨 SASS, TypeScript, 🅱️ Bootstrap, 🌟 TailwindCSS, 🎨 Canva, 📦 NPM y 🎨 Less.
+
+Mis habilidades incluyen el desarrollo de interfaces de usuario, diseño responsive, optimización de rendimiento y resolución de problemas. Si bien disfruto trabajar en cualquier proyecto de desarrollo web, tengo un gran interés en la creación de aplicaciones interactivas y el desarrollo de soluciones creativas y personalizadas.
+
+Puedes echar un vistazo a algunos de mis proyectos en mi 🌐 [(portafolio)] en línea para ver ejemplos concretos de mi trabajo.
+
+Mi objetivo es seguir aprendiendo y creciendo profesionalmente mientras sigo ofreciendo soluciones de alta calidad para proyectos web emocionantes.
+
+¡Gracias por visitar mi perfil! 😊
 
 
 ## 🌐 Socials:
