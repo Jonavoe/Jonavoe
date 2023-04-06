@@ -11,7 +11,7 @@ _Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir apr
 
 -  [GitHub - Rick and Morty Fan Page](https://github.com/Jonavoe/Proyecto-rick-and-morty)
 -  [Deploy in vercel Rick and Morty](https://rick-and-morty-jonavoe.vercel.app/)  
-- [Shih tzu busqueda, Pagina para buscar imagenes](https://github.com/Jonavoe/buscashit)
+- [GitHub - API Pixabai para buscar imagenes](https://github.com/Jonavoe/searchImagesPixabai)
 - [Ecommerce](https://github.com/Jonavoe/ecommerce)
 
 ## ⚙ My stack technologies
