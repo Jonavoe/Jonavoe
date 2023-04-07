@@ -6,7 +6,7 @@ Soy un 🧑‍💻 desarrollador Front End Junior apasionado por la tecnología 
 
 Mis habilidades incluyen el desarrollo de interfaces de usuario, diseño responsive, optimización de rendimiento y resolución de problemas. Si bien disfruto trabajar en cualquier proyecto de desarrollo web, tengo un gran interés en la creación de aplicaciones interactivas y el desarrollo de soluciones creativas y personalizadas.
 
-Puedes echar un vistazo a algunos de mis proyectos en mi 🌐 [portafolio en línea](https://portfolio-rouge-chi-69.vercel.app/) para ver ejemplos concretos de mi trabajo.
+Puedes echar un vistazo a algunos de mis proyectos en mi 🌐[portafolio en línea](https://portfolio-rouge-chi-69.vercel.app/) para ver ejemplos concretos de mi trabajo.
 
 Mi objetivo es seguir aprendiendo y creciendo profesionalmente mientras sigo ofreciendo soluciones de alta calidad para proyectos web emocionantes.
 
