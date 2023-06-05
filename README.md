@@ -1,6 +1,15 @@
 # 💫 About Me:
 
-¡Hola! 👋
+¡Hola! 👋 Soy Jonathan Emanuel Voeffray y soy Developer Full Stack con experiencia en Desarrollo web. Me especializo en ⚛️ React, 🖥️ Node.js, 🍃 MongoDB y 🗄️ SQL. He tenido la oportunidad de hacer una pasantía en Social Media Lab y obtener un puesto como Developer Full Stack. Mi enfoque se basa en crear soluciones efectivas y lograr resultados tangibles.
+
+A lo largo de mi carrera, he trabajado como 🧑‍💼 Team Leader en el área de mantenimiento en Toyota Argentina S.A. y actualmente soy Developer Full Stack en Social Media Lab. Durante este tiempo, he colaborado en proyectos importantes, como la creación de una aplicación de gestión y clasificación de clientes potenciales. Esto me ha permitido desarrollar habilidades sólidas en el uso de 🍃 MongoDB como base de datos no relacional, así como en ⚛️ React con Vite, Redux y varias otras librerías de frontend.
+
+Estoy emocionado de seguir creciendo profesionalmente y contribuir al éxito del desarrollo web. Mi objetivo es seguir aprendiendo nuevas tecnologías y contribuir al desarrollo de aplicaciones web innovadoras. 🚀
+
+¡Gracias por tu tiempo y consideración! Estoy deseoso/a de conectar y colaborar con profesionales como tú. 🤝
+
+
+<!-- ¡Hola! 👋
 
 Soy un 🧑‍💻 desarrollador Front End Junior apasionado por la tecnología y el diseño. Tengo experiencia en 🚀 JavaScript, ⚛️ React, React Router, 🐘 Postgres, 🎵 Insomnia, HTML5, 🎨 SASS, TypeScript, 🅱️ Bootstrap, 🌟 TailwindCSS, 🎨 Canva, 📦 NPM y 🎨 Less.
 
@@ -10,11 +19,11 @@ Puedes echar un vistazo a algunos de mis proyectos en mi 🌐[portafolio en lín
 
 Mi objetivo es seguir aprendiendo y creciendo profesionalmente mientras sigo ofreciendo soluciones de alta calidad para proyectos web emocionantes.
 
-¡Gracias por visitar mi perfil! 😊
+¡Gracias por visitar mi perfil! 😊 -->
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/voeffray-jonathan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/VoeffrayJona)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/voeffray-jonathan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/VoeffrayJona) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Jonavoe)
 
 # 💻 Tech Stack:
 
