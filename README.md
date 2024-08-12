@@ -37,23 +37,68 @@ Mi objetivo es seguir aprendiendo y creciendo profesionalmente mientras sigo ofr
 
 # 📁 Projects:
 
-- [GitHub - SMLAPP](https://github.com/Jonavoe/sml-app)
-- [Deploy del SMLAPP](https://sml-app.vercel.app/)
+Frontend
 
+- [**HRY tokens Dapp Smart Contract**](https://scaffold-dapp-pi.vercel.app/) - Aplicación descentralizada (DApp) desarrollada con React para interactuar con contratos inteligentes en la red Ethereum. Permite a los usuarios conectarse a Metamask y realizar transacciones básicas con tokens. [Código](https://github.com/Jonavoe/FirstDapp)
+  ![HRY tokens Dapp Smart Contract](https://github.com/Jonavoe/FirstDapp/raw/main/public/projects/firstdapp.webp)
 
-- [GitHub - eCommerce Gamer](https://github.com/Jonavoe/ecommerce)
-- [Deploy del Ecommerce Gamer en Vercel](https://ecommerce-swart-sigma.vercel.app/)
+- [**Generador de QR**](https://qr-generator-voeffray.vercel.app/) - Genera y descarga QRs como imagen fácilmente para Whatsapp, URLs, Wifi, Email, etc. [Código](https://github.com/Jonavoe/QRGeneratorWeb-master)
+  ![Generador de QR](https://github.com/Jonavoe/QRGeneratorWeb-master/raw/main/public/projects/qrgeneratorweb.webp)
 
-- [GitHub - Rick and Morty Fan Page](https://github.com/Jonavoe/Proyecto-rick-and-morty)
-- [Deploy de Rick and Morty en Vercel](https://rick-and-morty-jonavoe.vercel.app/)
+- [**Belloni Agro**](https://belloniagro.vercel.app/) - Creación de una Landing Page diseñada para Belloni Profesionales del Agro. Con tecnología NextJs, TailwindCSS y TypeScript, ofrece un diseño atractivo. [Código](https://github.com/Jonavoe/agro)
+  ![Belloni Agro](https://github.com/Jonavoe/agro/raw/main/public/projects/BelloniAgro.webp)
 
-- [GitHub - API Pixabai para buscar imagenes](https://github.com/Jonavoe/searchImagesPixabai)
-- [Deploy de buscador de imagenes en Vercel](https://vercel.com/jonavoe/search-images-pixabai)
+- [**Inmobiliaria**](https://inmobiliaria-voeffray.vercel.app/) - Aplicación web desarrollada con React para la gestión de propiedades inmobiliarias. Permite buscar, filtrar y consultar detalles sobre propiedades en venta o alquiler. [Código](https://github.com/Jonavoe/inmobiliaria)
+  ![Inmobiliaria](https://github.com/Jonavoe/inmobiliaria/raw/main/public/projects/inmobiliaria.webp)
+
+- [**Autoflow Landing**](https://www.autoflow.com.ar/) - Rediseñé la página de aterrizaje para mejorar la experiencia del usuario e impulsar las conversiones.
+  ![Autoflow Landing](https://www.autoflow.com.ar/assets/img/AutoflowLanding.webp)
+
+- [**Autoflow Dashboard**](https://www.autoflow.com.ar/) - Interfaz de usuario mejorada para una navegación y uso más sencillos. Se agregaron funciones para una visión general integral del rendimiento del flujo de trabajo.
+  ![Autoflow Dashboard](https://www.autoflow.com.ar/assets/img/AutoflowDashboard.webp)
+
+- [**Social Media Lab Empleados**](https://ventas-jonavoe.vercel.app/) - Desarrolle una aplicación web para una gestión eficiente de empleados, incluyendo la incorporación, la baja, la gestión de permisos y herramientas de comunicación. [Código](https://github.com/Jonavoe/Ventas)
+  ![Social Media Lab Empleados](https://github.com/Jonavoe/Ventas/raw/main/public/projects/Gestion_de_empleados.webp)
+
+- [**Ecommerce Client**](https://ecommerce-jonavoe.vercel.app/) - Interfaz de usuario desarrollada con React para gestionar una tienda en línea. Permite a los usuarios navegar por productos, realizar compras y gestionar su carrito. [Código](https://github.com/Jonavoe/ecommerce/tree/main/Client)
+  ![Ecommerce Client](https://github.com/Jonavoe/ecommerce/raw/main/public/projects/ecommerce.webp)
+
+- [**Pokedex**](https://tu-url-de-demo-aqui.com) - Aplicación web desarrollada con React para explorar y consultar información sobre Pokémon. [Código](https://github.com/Jonavoe/Pokedex)
+  ![Pokedex](https://github.com/Jonavoe/Pokedex/raw/main/public/projects/pokedex.webp)
+
+- [**Rick y Morty**](https://rick-and-morty-jonavoe.vercel.app/) - Aplicación web en React que consume la API de Rick and Morty para mostrar personajes, episodios y ubicaciones. [Código](https://github.com/Jonavoe/Proyecto-rick-and-morty/)
+  ![Rick y Morty](https://github.com/Jonavoe/Proyecto-rick-and-morty/raw/main/public/projects/rickandmorty.webp)
+
+- [**Actived planet**](https://pi-countries-main-green.vercel.app/) - Aplicación web en React que muestra información sobre países, incluyendo detalles como población, región y actividades. [Código](https://github.com/Jonavoe/PI-Countries-main)
+  ![Actived planet](https://github.com/Jonavoe/PI-Countries-main/raw/main/public/projects/activedplanet.webp)
+
+- [**Pixabay buscador de imágenes**](https://search-images-pixabai.vercel.app/) - App de búsqueda de imágenes con React que permite explorar y visualizar fotos de Pixabay de manera rápida y sencilla. [Código](https://github.com/Jonavoe/searchImagesPixabai)
+  ![Pixabay buscador de imágenes](https://github.com/Jonavoe/searchImagesPixabai/raw/main/public/projects/pixabay.webp)
+
+## Backend
+
+- [**Ecommerce Backend**](https://github.com/Jonavoe/ecommerce/tree/main/Server) - API REST desarrollada con Node.js y Express para gestionar la lógica de negocio de una tienda en línea. Permite manejar productos, usuarios, y pedidos. [Código](https://github.com/Jonavoe/ecommerce/tree/main/Server)
+  ![Ecommerce Backend](https://github.com/Jonavoe/ecommerce/raw/main/public/projects/ecommerce-backend.webp)
+
+- [**OpenBank API**](https://github.com/Jonavoe/OpenBankAPI) - API RESTful creada con Node.js y MongoDB para simular operaciones bancarias. Incluye funciones para la gestión de cuentas y transacciones. [Código](https://github.com/Jonavoe/OpenBankAPI)
+  ![OpenBank API](https://github.com/Jonavoe/OpenBankAPI/raw/main/public/projects/openbank-api.webp)
+
+---
+
+# 🚀 Contact Me:
+
+- 📧 Email: [voeffray.jonathan@gmail.com](mailto:voeffray.jonathan@gmail.com)
+- 📱 Phone: [+543487229328](tel:+543487229328)
+- 🌐 LinkedIn: [Jonathan Emanuel Voeffray](https://linkedin.com/in/voeffray-jonathan)
+- 🐦 Twitter: [@VoeffrayJona](https://twitter.com/VoeffrayJona)
+- 🐙 GitHub: [Jonavoe](https://github.com/Jonavoe)
 
 # 📊 GitHub Stats:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Jonavoe&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jonavoe&theme=monokai&hide_border=false)<br/>
+
+Puedes ver más sobre mi trabajo en mi [portafolio en línea](https://portfolio-voeffray.vercel.app/).
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonavoe&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
